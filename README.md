@@ -136,3 +136,4 @@
 ---
 
 <h3 align="center">⭐ Thanks for visiting my GitHub Profile ⭐</h3>
+<img src="https://raw.githubusercontent.com/Jayesh-Patil/Jayesh-Patil/main/profile.png" width="180px"/>
